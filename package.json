@@ -1,0 +1,17 @@
+{
+  "name": "ateroid-belt-ride-class-pre-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "pixi.js": "^6.5.2",
+    "vite": "^4.1.4"
+  }
+}
